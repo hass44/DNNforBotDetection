@@ -1,0 +1,10 @@
+
+*.zip
+input/cresci-2017.csv/genuine_accounts/users.csv
+input/cresci-2017.csv/social_spambots_1/users.csv
+input/cresci-2017.csv/social_spambots_2/users.csv
+input/cresci-2017.csv/social_spambots_3/users.csv
+*.csv
+input/glove.twitter.27B.200d.txt
+*.tsv
+input/cresci-rtbust-2019_tweets.json
