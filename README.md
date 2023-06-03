@@ -52,7 +52,7 @@ The model is evaluated on the test dataset using metrics such as precision, reca
 
 
 ## Results
-
+###Account-Level Classification
 The model achieves high precision, recall, F1 score, and ROC/AUC score, indicating its effectiveness in detecting Twitter bots. However, it's important to note that the performance may vary depending on the dataset and real-world scenarios.
 
 | Metric         | Score                |
@@ -60,6 +60,15 @@ The model achieves high precision, recall, F1 score, and ROC/AUC score, indicati
 | Recall Score   | 0.9756345177664975   |
 | F1 Score       | 0.9821154828819622   |
 | ROC/AUC Score  | 0.9962218266786795   |
+
+###Tweet-Level Classification
+The model achieves good precision, recall, F1 score, and ROC/AUC score, indicating its effectiveness in detecting Twitter bots. However, it's important to note that the performance may vary depending on the dataset and real-world scenarios.
+
+| Metric         | Score                |
+|----------------|----------------------|
+| Recall Score   | 0.8872471207100318   |
+| F1 Score       | 0.834560110730113    |
+| ROC/AUC Score  | 0.8468545091803743   |
 
 ## Contributors
 
